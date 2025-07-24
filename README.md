@@ -1,2 +1,2 @@
 # CrudApp
-App de un crud simple
+App de un crud simple de gestion de empleados
